@@ -1,7 +1,12 @@
+import Header from "./Header";
+import Main from "./Main";
+import "./index.css";
+
 function App() {
   return (
     <div>
-      <h2>Application</h2>
+      <Header />
+      <Main />
     </div>
   );
 }
