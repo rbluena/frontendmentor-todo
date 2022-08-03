@@ -1,6 +1,6 @@
 # Frontend Mentor's Peer Programming
 
-This one of the project where friends from frontend mentor are working together to developer solutions for existing proplems. In this project we are focusing on applying all functionalities  of a todo application. Here is the link to the tasks
+This is one of the projects where by a bunch of friends from frontendmentor.com, are working together to develop solutions from existing designs. In this project we are focusing on applying all functionalities  of a todo application. Here is the link to the task,
 [Task](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-0SGAFMsYzY)
 ## Available Scripts
 
